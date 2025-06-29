@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TestEcomm
 =======
 🛒 Laravel Admin Panel – Product & Category Management
@@ -94,3 +95,6 @@ database/seeders/
 | Slug    | Can be auto-generated or manually entered                       |
 | Uploads | Images saved under `/public/storage/uploads` via `storage:link` |
 >>>>>>> 03bc4cb (Initial Laravel Admin Panel Commit)
+=======
+# TestEcomm
+>>>>>>> c344336194587529d81a31b020aec6098db4573f
